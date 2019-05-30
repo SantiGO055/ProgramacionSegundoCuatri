@@ -1,0 +1,6 @@
+git init
+git clone https://github.com/SantiGO055/
+git add .
+git commit -m "comentario"
+git remote add origin https://github.com/LuchoCastillo/Repositorio.git
+git push -u origin master
