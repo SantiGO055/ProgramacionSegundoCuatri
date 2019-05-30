@@ -1,0 +1,12 @@
+F:\Proyectos C#\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+F:\Proyectos C#\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+F:\Proyectos C#\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Proyectos C#\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+F:\Proyectos C#\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.dll
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\bin\Debug\Entidades.dll
+D:\Gonzalez Santiago\tp_laboratorio_ll-master\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb

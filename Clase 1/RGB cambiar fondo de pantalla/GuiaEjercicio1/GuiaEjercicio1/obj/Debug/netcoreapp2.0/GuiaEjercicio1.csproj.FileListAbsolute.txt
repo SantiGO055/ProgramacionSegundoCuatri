@@ -1,0 +1,4 @@
+D:\VisualStudio\GuiaEjercicio1\GuiaEjercicio1\obj\Debug\netcoreapp2.0\GuiaEjercicio1.csprojAssemblyReference.cache
+D:\VisualStudio\GuiaEjercicio1\GuiaEjercicio1\obj\Debug\netcoreapp2.0\GuiaEjercicio1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\GuiaEjercicio1\GuiaEjercicio1\obj\Debug\netcoreapp2.0\GuiaEjercicio1.AssemblyInfoInputs.cache
+D:\VisualStudio\GuiaEjercicio1\GuiaEjercicio1\obj\Debug\netcoreapp2.0\GuiaEjercicio1.AssemblyInfo.cs

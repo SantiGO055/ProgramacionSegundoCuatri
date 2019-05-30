@@ -1,0 +1,11 @@
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\bin\x64\Debug\netcoreapp2.0\Ejercicio_04.deps.json
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\bin\x64\Debug\netcoreapp2.0\Ejercicio_04.runtimeconfig.json
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\bin\x64\Debug\netcoreapp2.0\Ejercicio_04.runtimeconfig.dev.json
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\bin\x64\Debug\netcoreapp2.0\Ejercicio_04.dll
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\bin\x64\Debug\netcoreapp2.0\Ejercicio_04.pdb
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.csprojAssemblyReference.cache
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.AssemblyInfoInputs.cache
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.AssemblyInfo.cs
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.dll
+C:\Users\SantiGO\Desktop\ProgramacionSegundoCuatri-master\Clase02\Ejercicio04\obj\x64\Debug\netcoreapp2.0\Ejercicio_04.pdb

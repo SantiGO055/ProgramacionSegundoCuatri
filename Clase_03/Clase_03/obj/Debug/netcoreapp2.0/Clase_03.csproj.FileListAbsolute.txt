@@ -1,0 +1,11 @@
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\bin\Debug\netcoreapp2.0\Clase_03.deps.json
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\bin\Debug\netcoreapp2.0\Clase_03.runtimeconfig.json
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\bin\Debug\netcoreapp2.0\Clase_03.runtimeconfig.dev.json
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\bin\Debug\netcoreapp2.0\Clase_03.dll
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\bin\Debug\netcoreapp2.0\Clase_03.pdb
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.csprojAssemblyReference.cache
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.csproj.CoreCompileInputs.cache
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.AssemblyInfoInputs.cache
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.AssemblyInfo.cs
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.dll
+D:\ProgramacionSegundoCuatri-master\Clase_03\Clase_03\obj\Debug\netcoreapp2.0\Clase_03.pdb

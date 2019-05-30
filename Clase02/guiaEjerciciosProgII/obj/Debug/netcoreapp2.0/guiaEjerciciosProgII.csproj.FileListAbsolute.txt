@@ -1,0 +1,11 @@
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.csprojAssemblyReference.cache
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.csproj.CoreCompileInputs.cache
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.AssemblyInfoInputs.cache
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.AssemblyInfo.cs
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\bin\Debug\netcoreapp2.0\guiaEjerciciosProgII.deps.json
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\bin\Debug\netcoreapp2.0\guiaEjerciciosProgII.runtimeconfig.json
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\bin\Debug\netcoreapp2.0\guiaEjerciciosProgII.runtimeconfig.dev.json
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\bin\Debug\netcoreapp2.0\guiaEjerciciosProgII.dll
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\bin\Debug\netcoreapp2.0\guiaEjerciciosProgII.pdb
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.dll
+D:\VisualStudio\guiaEjerciciosProgII\guiaEjerciciosProgII\obj\Debug\netcoreapp2.0\guiaEjerciciosProgII.pdb

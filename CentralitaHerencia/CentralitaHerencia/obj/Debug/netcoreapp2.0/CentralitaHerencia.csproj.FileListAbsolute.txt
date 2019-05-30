@@ -1,0 +1,11 @@
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.deps.json
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.runtimeconfig.json
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.runtimeconfig.dev.json
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.dll
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\bin\Debug\netcoreapp2.0\CentralitaHerencia.pdb
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.csprojAssemblyReference.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.AssemblyInfo.cs
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.dll
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\CentralitaHerencia\CentralitaHerencia\obj\Debug\netcoreapp2.0\CentralitaHerencia.pdb

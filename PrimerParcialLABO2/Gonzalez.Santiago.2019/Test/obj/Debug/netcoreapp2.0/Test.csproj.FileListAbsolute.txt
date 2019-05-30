@@ -1,0 +1,28 @@
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Test.dll
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Test.pdb
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Entidades.dll
+D:\Gonzalez.Santiago.2019\Test\Test\bin\Debug\netcoreapp2.0\Entidades.pdb
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.csprojAssemblyReference.cache
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.dll
+D:\Gonzalez.Santiago.2019\Test\Test\obj\Debug\netcoreapp2.0\Test.pdb
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Test.dll
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Test.pdb
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Entidades.dll
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\bin\Debug\netcoreapp2.0\Entidades.pdb
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.csprojAssemblyReference.cache
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.dll
+D:\Proyectos C#\Gonzalez.Santiago.2019\Test\obj\Debug\netcoreapp2.0\Test.pdb

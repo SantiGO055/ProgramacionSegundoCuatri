@@ -1,0 +1,5 @@
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\Entidades\bin\Debug\Entidades.dll
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\Entidades\bin\Debug\Entidades.pdb
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\Entidades\obj\Debug\Entidades.dll
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\Entidades\obj\Debug\Entidades.pdb

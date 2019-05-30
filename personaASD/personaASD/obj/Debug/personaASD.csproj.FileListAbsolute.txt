@@ -1,0 +1,14 @@
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.csprojAssemblyReference.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.Form1.resources
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.Form2.resources
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.Properties.Resources.resources
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.csproj.GenerateResource.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.csproj.CoreCompileInputs.cache
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\bin\Debug\personaASD.exe.config
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\bin\Debug\personaASD.exe
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\bin\Debug\personaASD.pdb
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\bin\Debug\Entidades.dll
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\bin\Debug\Entidades.pdb
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.csproj.CopyComplete
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.exe
+D:\Gonzalez Santiago\ProgramacionSegundoCuatri\personaASD\personaASD\obj\Debug\personaASD.pdb
